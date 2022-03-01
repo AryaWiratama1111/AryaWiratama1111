@@ -13,7 +13,7 @@
 [<img align="left" alt="My twitch" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" />][twitch]
 [<img align="left" alt="My youtube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
 [<img align="left" alt="My twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />][twitter]
-[<img align="left" alt="My website" width="22px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-world-wide-web-icon-icons-and-png-backgrounds-18.png" />][website]
+[<img align="left" alt="My website" width="22px" src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" />][website]
 
 <br />
 
