@@ -1,6 +1,5 @@
 ### Welcome here, my name is *Arya Wiratama.1111* 👋
 
-[![instagram Follow](<img align="left" alt="My instagram" width="22px" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" />)](https://www.instagram.com/aryawiratama.11472/)
 
 ## I'm an HopeFully developer!
 
