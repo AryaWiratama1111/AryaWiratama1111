@@ -45,7 +45,7 @@
 
 ---
 
-[discord hopefully]: https://discord.gg/hopefullyroleplay
+[discord]: https://discord.gg/hopefullyroleplay
 [website]: https://aryawiratama.dev/
 [instagram]: https://www.instagram.com/aryawiratama.11472/
 [twitch]: https://www.twitch.tv/aryawiratama1111
