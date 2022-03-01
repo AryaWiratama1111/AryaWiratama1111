@@ -1,6 +1,6 @@
 ### Welcome here, my name is *Arya Wiratama.1111* 👋
 
-[![instagram Follow](https://img.shields.io/twitter/follow/lwzdev?color=1DA1F2&label=FOLLOW%20%40LWZ&logo=Twitter&style=for-the-badge)](https://www.instagram.com/aryawiratama.11472/)
+[![instagram Follow](https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png)](https://www.instagram.com/aryawiratama.11472/)
 
 ## I'm an HopeFully developer!
 
