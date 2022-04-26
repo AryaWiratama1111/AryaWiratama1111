@@ -3,7 +3,7 @@
 
 ## I'm an HopeFully developer!
 
--💻 project "Hopefully", a FiveM RP server.
+-💻 project "Retro", a FiveM RP server.
 
 ### My socials!
 
