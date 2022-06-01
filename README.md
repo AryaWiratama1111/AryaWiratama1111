@@ -1,9 +1,9 @@
 ### Welcome here, my name is *Arya Wiratama.1111* 👋
 
 
-## I'm an MK GRUP developer!
+## I'm an MK Grup managament!
 
--💻 project "Retro", a FiveM RP server.
+-💻 project "Retro, Hopefully", a FiveM RP server.
 
 ### My socials!
 
