@@ -7,7 +7,7 @@
 
 ### My socials!
 
-[<img align="left" alt="My discord" width="22px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" />][discord]
+[<img align="left" alt="My discord" width="22px" src="https://assets.stickpng.com/images/62b2265e038aad4d3ed7ca4b.png" />][discord]
 [<img align="left" alt="My instagram" width="22px" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" />][instagram]
 [<img align="left" alt="My twitch" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" />][twitch]
 [<img align="left" alt="My youtube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
