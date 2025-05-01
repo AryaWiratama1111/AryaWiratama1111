@@ -3,7 +3,7 @@
 
 ## I'm an MK Grup managament!
 
--💻 project "Retro, Hopefully", a FiveM RP server.
+-💻 project "Motion", a FiveM RP server.
 
 ### My socials!
 
