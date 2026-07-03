@@ -22,8 +22,12 @@
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AryaWiratama1111&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Arya's GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=AryaWiratama1111&theme=tokyonight&hide_border=true" alt="Arya's GitHub streak" />
+
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AryaWiratama1111&layout=compact&theme=tokyonight&hide_border=true" alt="Arya's top languages" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AryaWiratama1111&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Arya's contribution graph" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=AryaWiratama1111&color=0A84FF&style=for-the-badge&label=PROFILE+VIEWS)
 
