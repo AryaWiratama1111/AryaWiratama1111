@@ -1,4 +1,10 @@
+<div align="center">
+
 ### Welcome here, my name is *Arya Wiratama.1111* 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Founder+%40+Evorative;Senior+Network+Specialist+%40+Tactical+Academy;Part+of+Baww+Management;Building+games%2C+mods+%26+apps)](https://git.io/typing-svg)
+
+</div>
 
 ## I'm part of [Evorative](https://evorative.com) and [Baww Management][baww-youtube]!
 
@@ -14,7 +20,14 @@
 
 ### My stats!
 
-![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaWiratama1111&count_private=true&show_icons=true&theme=tokyonight)
+<div align="center">
+
+<img height="165" src="https://streak-stats.demolab.com/?user=AryaWiratama1111&theme=tokyonight&hide_border=true" alt="Arya's GitHub streak" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AryaWiratama1111&layout=compact&theme=tokyonight&hide_border=true" alt="Arya's top languages" />
+
+![Profile views](https://komarev.com/ghpvc/?username=AryaWiratama1111&color=0A84FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 ### Languages & Tools I use!
 
