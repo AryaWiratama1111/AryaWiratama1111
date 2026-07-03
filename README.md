@@ -1,43 +1,35 @@
 ### Welcome here, my name is *Arya Wiratama.1111* 👋
 
+## I'm part of [Evorative](https://evorative.com) and [Baww Management][baww-youtube]!
 
-## I'm an MK Grup managament!
-
--💻 project "Motion", a FiveM RP server.
+- 💻 Building **[Evorative](https://evorative.com)** — a creative development team for games, Minecraft mods & servers, GTA 5 roleplay scripts, apps, and tools.
+- 🌐 Senior Network Specialist at **Tactical Academy**.
 
 ### My socials!
 
-[<img align="left" alt="My instagram" width="22px" src="https://cdn.pixabay.com/photo/2021/06/15/12/17/instagram-6338401_1280.png" />][instagram]
-[<img align="left" alt="My twitch" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c540.png" />][twitch]
-[<img align="left" alt="My youtube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />][youtube]
-[<img align="left" alt="My twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />][twitter]
-[<img align="left" alt="My website" width="22px" src="https://www.pinclipart.com/picdir/big/211-2116571_website-website-logo-png-transparent-background-clipart.png" />][website]
-
-<br />
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)][twitch]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Website](https://img.shields.io/badge/Website-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white)][website]
 
 ### My stats!
 
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AryaWiratama1111&count_private=true&show_icons=true?theme=buefy)
-<br />
-
-<br />
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaWiratama1111&count_private=true&show_icons=true&theme=tokyonight)
 
 ### Languages & Tools I use!
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="Sublime Text" width="26px" src="https://www.sublimehq.com/images/sublime_text.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-<br />
-<br />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -45,4 +37,4 @@
 [instagram]: https://www.instagram.com/aryawiratama.11472/
 [twitch]: https://www.twitch.tv/aryawiratama1111
 [youtube]: https://www.youtube.com/c/AryaWiratama1111
-[twitter]: https://twitter.com/1111Arya
+[baww-youtube]: https://www.youtube.com/@bawww
