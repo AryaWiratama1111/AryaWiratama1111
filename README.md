@@ -51,7 +51,7 @@
 ---
 
 [website]: https://aryawiratama.dev/
-[instagram]: https://www.instagram.com/aryawiratama.11472/
+[instagram]: https://www.instagram.com/aryawiratama.25/
 [twitch]: https://www.twitch.tv/aryawiratama1111
 [youtube]: https://www.youtube.com/c/AryaWiratama1111
 [baww-youtube]: https://www.youtube.com/@bawww
